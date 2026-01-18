@@ -1,0 +1,7 @@
+{
+  "filepath": "example/example.jar",
+  "name": "example_project",
+  "description": "This is a sample JSON configuration stored in the root of the git repository.",
+  "author": "YourName",
+  "material": "STONE"
+}
