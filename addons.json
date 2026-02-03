@@ -1,7 +1,15 @@
 {
-  "filepath": "example/example.jar",
-  "name": "example_project",
-  "description": "This is a sample JSON configuration stored in the root of the git repository.",
-  "author": "YourName",
-  "material": "STONE"
+  "name": "SpawnCommand",
+  "description": "lets the user use /Spawn to teleport to spawn",
+  "author": "BlackDev",
+  "item": "lodestone",
+  "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
+},
+{
+  "name": "SpawnCommand",
+  "description": "lets the user use /Spawn to teleport to spawn",
+  "author": "BlackDev",
+  "item": "lodestone",
+  "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
 }
+
