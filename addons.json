@@ -1,15 +1,16 @@
-{
-  "name": "SpawnCommand",
-  "description": "lets the user use /Spawn to teleport to spawn",
-  "author": "BlackDev",
-  "item": "lodestone",
-  "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
-},
-{
-  "name": "Web Dashboard",
-  "description": "A Web Dashboard where you can view analytics about your server",
-  "author": "BlackDev",
-  "item": "Barrier",
-  "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
-}
-
+[
+    {
+      "name": "SpawnCommand",
+      "description": "lets the user use /Spawn to teleport to spawn",
+      "author": "BlackDev",
+      "item": "lodestone",
+      "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
+    },
+    {
+      "name": "Web Dashboard",
+      "description": "A Web Dashboard where you can view analytics about your server",
+      "author": "BlackDev",
+      "item": "BARRIER",
+      "download": "https://github.com/UtilityXCoding/UtilityX-Core/releases/download/v210825/UtilityX-Core-0725.jar"
+    }
+  ]
